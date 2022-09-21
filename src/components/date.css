@@ -1,0 +1,10 @@
+.date-input {
+    font-size: 1.5rem;
+    padding: 1rem;
+    border-radius: 10px;
+    border: 5px solid green;
+}
+.date-display{
+    margin-top: 1rem;
+    font-size: 2rem;
+}

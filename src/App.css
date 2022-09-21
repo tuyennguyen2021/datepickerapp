@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+ body {
+  font-family: 'Montserrat', sans-serif;
+ }
+
+.date-container{
+  display: flex;
+  justify-content: center;
+  margin-top: 2rem;
+  align-items: center;
+  flex-direction: column;
+ 
+}
